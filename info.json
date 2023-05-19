@@ -1,0 +1,235 @@
+[
+    {
+     "program_name": "Energy saving for business",
+     "link": "https://www.eralberta.ca/energy-savings-for-business/esb-program-overview/", 
+     "infomration": "The Energy Savings for Business Program aims to assist qualifying businesses in Alberta by enabling them to reduce emissions, lower operating expenses, expand their operations, and enhance competitiveness while also generating skilled job opportunities and promoting economic recovery. The program acknowledges that businesses in Alberta value time as much as money, and as such, it will provide an efficient application process, prompt response times, a comprehensive range of technology options, and timely, easily understandable information. The Energy Savings for Business Program offers businesses rapid access to incentives for cost-effective efficiency measures. The program provides up to $250,000 per project, up to $1 million per parent company for the cost of products and services, and a minimum incentive amount of $500 (which is a new addition to the program).", 
+     "applicance eligibility": "any",
+     "location elgibility": "Small and medium scaled, Enterprise in alberta, Business, no profit, Cant be government owned, Common spaces and equipments, Individual businesses, Non profit organization, Co-operatives, Farms ",
+     "amount": "unknown",
+     "province(s)": "alberta",
+     "fedral": "no",
+     "scope list": "building envelope uprgrade, HVAC, others"
+    },
+    {
+     "program_name": "Comprehensive energy savings",
+     "link": "https://www.eralberta.ca/energy-savings-for-business/comprehensive-energy-savings/", 
+     "infomration": "The Comprehensive Energy Savings (CES) program provides extra financial incentives to encourage participants to bundle efficiency measures and incorporate new technology types, which aids facilities in achieving greater energy savings and emissions reductions. When smaller capital investments are combined into a larger investment package, participants can take advantage of higher incentives and achieve more significant long-term outcomes, including reduced operating costs and increased emissions reductions. The CES program's financial incentives for retrofits and upgrades help alleviate some of the capital costs while simultaneously pushing Alberta towards its net-zero greenhouse gas (GHG) emissions objectives.", 
+     "applicance eligibility": "On-site generation and renewables, Lighting, Space, process and water heating, Cooling and ventilation, Compressed air, Refrigeration and food services, Motors and drives, Building envelope and windows",
+     "location elgibility": "Small and medium scaled, Enterprise in alberta, Business, no profit, Cant be government owned, Common spaces and equipments, Individual businesses, Non profit organization, Co-operatives, private schools not eligible for government funding, Farms regist",
+     "amount": "unknown",
+     "province(s)": "alberta",
+     "fedral": "no",
+     "scope list": "retrofits, HVAC, building envelope upgrade"
+    },
+    {
+     "program_name": "Expanded technologies pilot",
+     "link": "https://www.eralberta.ca/energy-savings-for-business/expanded-technologies-pilot/", 
+     "infomration": ". ETP offers a new pathway for Alberta businesses to propose effective, commercially viable technologies not currently supported through ESB, that could offer high return on investment.", 
+     "applicance eligibility": "lighting controls, daylight controls, occupancy controls, bi-level control, combined heat and power, waste heat recovery, groundsource heat pump, boilers, condensing unit heaters, boiler and heater controls, high efficnecy furnaces, chillers, rooftop, condesing make-up air unit, heat and energy recovery ventilators, demand control ventilation, destratifcation fans, HVAC pipe insulation, packaged terminal heat pumps, steam traps, economizers, steam fittings and pipe insulation, direct contact water heater, condensing storage tank water heater, condensing tankless water heater, water heater jacket, ovens, fryers, griddles, steam cookers, dishwashers, demand control kitchen ventilation, solar preheating of intake air, greenhouse top lighting, high effciency windows, ceeling and wall insulation, air curtains and door dock seals, bay LED fixture, linear led fixture replacement or retrofit, accent, exterior LED fixtures, refigerated case lighting LED, troffer fixtures and kits, LED exit signs, downlight fixtures and retrofit kits, strip curtain, night covers, evaporator fan control, automatic door closer, anti-sweat heater controls, low pressure drop filter, compressed air storage, nozzels, zero loss drain, VSD air compressor, VFD for fan or pump motor, notched or synchronous belt retorifts, ODP,TEFC",
+     "location elgibility": "anyone",
+     "amount": 250000,
+     "province(s)": "alberta",
+     "fedral": "no",
+     "scope list": "others"
+    },
+    {
+     "program_name": "Small producers energy efficiency deployment",
+     "link": "https://www.eralberta.ca/energy-savings-for-business/speed/", 
+     "infomration": "SPEED, which stands for Small Producers Energy Efficiency Deployment, is an initiative that builds upon the Energy Savings for Business program to aid eligible oil and gas producers in Alberta in reducing greenhouse gas emissions and promoting job growth. This program has widened its criteria and incorporated new forms of technology to expedite the implementation of established enhancements that enable producers to lower operating costs, enhance competitiveness, and contribute to economic recovery. Under SPEED, eligible companies can take advantage of incentives of up to $1 million per parent organization for the implementation of energy-efficient and cost-saving technologies.", 
+     "applicance eligibility": "air fuel ratio controllers, high efficieny engines, pump jack electrification",
+     "location elgibility": "oil and gas producer ",
+     "amount": 10000,
+     "province(s)": "alberta",
+     "fedral": "no",
+     "scope list": "building envelope upgrade, HVAC, others"
+    },
+    {
+     "program_name": "clean energy improvement program",
+     "link": "https://ceip.abmunis.ca/commercial/upgrades/", 
+     "infomration": "The Commercial Energy Improvement Program (CEIP) is a program provided by the Alberta Municipal Solar Program (AMSP) that offers incentives for commercial businesses in Alberta, Canada, to make energy efficiency upgrades. The program provides funding for projects such as lighting upgrades, heating, ventilation and air conditioning (HVAC) upgrades, building envelope improvements, and renewable energy installations. Businesses can receive up to 25% of the project costs as a rebate, up to a maximum of $300,000 per project. The program aims to help businesses reduce their energy consumption and greenhouse gas emissions, lower their energy costs, and contribute to a cleaner, more sustainable energy future for Alberta.", 
+     "applicance eligibility": "any",
+     "location elgibility": "anyone",
+     "amount": "unknown",
+     "province(s)": "alberta",
+     "fedral": "no",
+     "scope list": "building envelope upgrade, HVAC, others"
+    },
+    {
+     "program_name": "Industrial energy efficiency program",
+     "link": "https://saveonenergy.ca/for-business-and-industry/programs-and-incentives/industrial-energy-efficiency-program", 
+     "infomration": "The Industrial Energy Efficiency Program, offered by Save on Energy in Ontario, Canada, is a program designed to help industrial businesses in the province reduce their energy consumption, costs, and greenhouse gas emissions. The program offers incentives for eligible projects, such as energy audits, process improvements, equipment upgrades, and renewable energy projects. Businesses can receive up to 50% of the project costs as an incentive, and the program is designed to help businesses implement energy-saving measures that provide long-term benefits. The program also offers technical support to businesses throughout the project planning and implementation stages, as well as tools and resources to help businesses identify opportunities for energy savings. Overall, the program aims to support Ontario's goal of building a more sustainable, low-carbon economy.", 
+     "applicance eligibility": "commerically avaliable material",
+     "location elgibility": "anyone",
+     "amount": "unknown",
+     "province(s)": "ontairo",
+     "fedral": "no",
+     "scope list": "others"
+    },
+    {
+     "program_name": "Energy manager program",
+     "link": "https://natural-resources.canada.ca/energy-manager-program/21917", 
+     "infomration": "The Energy Manager Program is a Canadian government initiative that provides funding for industrial and commercial organizations to hire an Energy Manager. The Energy Manager helps these organizations improve their energy efficiency, identify energy-saving opportunities, implement energy-efficient technologies and practices, and track their energy use and savings over time. The program also offers training, resources, and networking opportunities to increase energy efficiency, reduce energy costs, lower greenhouse gas emissions, and improve competitiveness.", 
+     "applicance eligibility": "none",
+     "location elgibility": "small and medium sized enterprises, municipalities, universities, colleges, schools, and hospitals",
+     "amount": 50000,
+     "province(s)": "ontairo",
+     "fedral": "no",
+     "scope list": "hiring, others"
+    },
+    {
+     "program_name": "Green industrial facilities and manufacturing program ",
+     "link": "https://natural-resources.canada.ca/energy-efficiency/energy-efficiency-for-industry/green-industrial-facilities-and-manufacturing-program/20413", 
+     "infomration": "The Green Industrial Facilities and Manufacturing (GIFM) program is a Canadian government initiative aimed at helping industrial facilities and manufacturers across the country reduce their energy consumption, greenhouse gas emissions, and operating costs. The program provides funding and technical support for energy efficiency assessments, feasibility studies, and capital projects to implement energy-saving measures such as equipment upgrades, process improvements, and building envelope enhancements. Businesses can receive up to 50% of the project costs as a non-repayable contribution, with a maximum of $250,000 per project. The program also offers support for innovation and demonstration projects that advance the adoption of clean technologies in the industrial sector. The GIFM program is part of Canada's broader strategy to transition to a low-carbon economy and support the country's climate change commitments.", 
+     "applicance eligibility": "none",
+     "location elgibility": "small and medium-sized enterprises, large businesses",
+     "amount": "unknown",
+     "province(s)": "all",
+     "fedral": "yes",
+     "scope list": "others"
+    },
+    {
+     "program_name": "Energy manager program",
+     "link": "https://natural-resources.canada.ca/energy-manager-program/21917", 
+     "infomration": "The Energy Manager Program is a Canadian government initiative that provides funding for industrial and commercial organizations to hire an Energy Manager. The Energy Manager helps these organizations improve their energy efficiency, identify energy-saving opportunities, implement energy-efficient technologies and practices, and track their energy use and savings over time. The program also offers training, resources, and networking opportunities to increase energy efficiency, reduce energy costs, lower greenhouse gas emissions, and improve competitiveness.", 
+     "applicance eligibility": "none",
+     "location elgibility": "small and medium sized enterprises, municipalities, universities, colleges, schools, and hospitals",
+     "amount": 50000,
+     "province(s)": "saskatchewan",
+     "fedral": "no",
+     "scope list": "hiring, others"
+    },
+    {
+     "program_name": "Energy manager program",
+     "link": "https://natural-resources.canada.ca/energy-manager-program/21917", 
+     "infomration": "The Energy Manager Program is a Canadian government initiative that provides funding for industrial and commercial organizations to hire an Energy Manager. The Energy Manager helps these organizations improve their energy efficiency, identify energy-saving opportunities, implement energy-efficient technologies and practices, and track their energy use and savings over time. The program also offers training, resources, and networking opportunities to increase energy efficiency, reduce energy costs, lower greenhouse gas emissions, and improve competitiveness.", 
+     "applicance eligibility": "none",
+     "location elgibility": "small and medium sized enterprises, municipalities, universities, colleges, schools, and hospitals",
+     "amount": 50000,
+     "province(s)": "manitoba",
+     "fedral": "no",
+     "scope list": "hiring, others"
+    },
+    {
+     "program_name": "Energy manager program",
+     "link": "https://natural-resources.canada.ca/energy-manager-program/21917", 
+     "infomration": "The Energy Manager Program is a Canadian government initiative that provides funding for industrial and commercial organizations to hire an Energy Manager. The Energy Manager helps these organizations improve their energy efficiency, identify energy-saving opportunities, implement energy-efficient technologies and practices, and track their energy use and savings over time. The program also offers training, resources, and networking opportunities to increase energy efficiency, reduce energy costs, lower greenhouse gas emissions, and improve competitiveness.", 
+     "applicance eligibility": "none",
+     "location elgibility": "small and medium sized enterprises, municipalities, universities, colleges, schools, and hospitals",
+     "amount": 50000,
+     "province(s)": "new brunswick",
+     "fedral": "no",
+     "scope list": "hiring, others"
+    },
+    {
+     "program_name": "Deep Retrofit program",
+     "link": "https://natural-resources.canada.ca/energy-efficiency/buildings/deep-retrofit-accelerator-initiative/24925", 
+     "infomration": "The Deep Retrofit Accelerator Initiative is a Canadian government program designed to accelerate the pace of deep energy retrofits in commercial and multi-unit residential buildings across the country. The program provides funding, technical expertise, and market intelligence to building owners and managers, with the goal of achieving energy savings of 50% or more through comprehensive building retrofits. The program works with partners in the private sector, including utilities, energy service companies, and financial institutions, to identify opportunities for deep retrofit projects and provide financing solutions that enable building owners to invest in energy efficiency upgrades. ", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": "unknown",
+     "province(s)": "all",
+     "fedral": "yes",
+     "scope list": "iso 50001 compliance, energy management, monitoring submetering, training, hiring, retrofits, building envelope upgrade, others"
+    }, 
+    {
+     "program_name": "ECO preformance",
+     "link": "https://transitionenergetique.gouv.qc.ca/affaires/programmes/ecoperformance", 
+     "infomration": "Energy management project for your industrial facility, you can receive financial aid to support it. Natural Resources Canada (NRCan) offers up to 50% of eligible expenses, with a maximum of $40,000 per facility. This financial assistance can be used in conjunction with other funding sources, but NRCan may adjust their contribution to ensure that all public funding sources combined do not exceed 75% of the total eligible project costs.", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": 40000,
+     "province(s)": "quebec",
+     "fedral": "yes",
+     "scope list": "iso 50001 compliance, iso 50001"
+    },     
+    {
+     "program_name": "ÉNERGIR ENERGY MANAGEMENT SYSTEM",
+     "link": "https://transitionenergetique.gouv.qc.ca/affaires/programmes/ecoperformance", 
+     "infomration": "Provides funding for Diagnostic Evaluation, Planning and Implementing, and Energy Savings Tracking for the program that you would like to sign up for in terms of reducing your yearly energy consumption. ", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": 350000,
+     "province(s)": "quebec",
+     "fedral": "yes",
+     "scope list": "others"
+    }, 
+    {
+     "program_name": "Hydro Quebec",
+     "link": "https://www.hydroquebec.com/affaires/programmes-outils/gestion-energie-electrique.html", 
+     "infomration": "It's possible to optimize your plant's electrical energy consumption without the need to purchase new equipment. By implementing an electrical energy management system (SGEE), you'll be able to identify the necessary steps to achieve this goal. Additionally, the system will provide information on the recurring savings you can expect, while enabling you to take advantage of financial support from Hydro-Quebec.", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": 175000,
+     "province(s)": "quebec",
+     "fedral": "yes",
+     "scope list": "others"
+    }, 
+    {
+     "program_name": "BC Hydro",
+     "link": "https://www.bchydro.com/powersmart/business/programs/energy-management/iem.html", 
+     "infomration": "You can receive funding to hire an industrial energy manager who will assist with your business' energy usage, invest in energy efficiency measures, and monitor long-term savings. This includes up to 75% of the energy manager's salary, 100% funding for energy management consulting services, training for the new energy manager, an on-site energy management assessment, funding for energy monitoring and targeting up to $80,000, a planning workshop, and employee engagement activities such as training and awareness events.", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": 80000,
+     "province(s)": "british columbia",
+     "fedral": "yes",
+     "scope list": "hiring, others"
+    },    
+    {
+     "program_name": "Manitoba Hydro",
+     "link": "https://www.hydro.mb.ca/your_business/benchmarking/energy_management/", 
+     "infomration": "The goal is to discover inexpensive energy management measures and devise an energy management strategy for industrial facilities. The tailored program involves conducting a site walk-through with plant and energy systems personnel to detect processes and equipment that can lead to energy reductions. Energy systems staff will then evaluate electrical usage patterns and the performance of major electrical equipment by analyzing past data. Afterward, prospective projects, including a basic energy management system for electrical and natural gas monitoring, will be identified, with budget pricing provided.", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": "unknown",
+     "province(s)": "manitoba",
+     "fedral": "yes",
+     "scope list": "hiring, others"
+    }, 
+    {
+     "program_name": "Energy Performance Program",
+     "link": "https://saveonenergy.ca/For-Business-and-Industry/Programs-and-incentives/Energy-Performance-Program", 
+     "infomration": "The Energy Performance Program, offered by Save on Energy for businesses and industries in Ontario, provides incentives to organizations that adopt energy-saving measures. The program offers funding for energy audits, training, and energy-efficient equipment upgrades. Participants who meet the program's criteria are eligible for financial incentives based on the amount of energy they save. The objective of the program is to help organizations reduce their energy consumption, lower their energy costs, and enhance their overall energy efficiency.", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": 150000,
+     "province(s)": "ontario",
+     "fedral": "yes",
+     "scope list": "training, hiring, others"
+    }, 
+    {
+     "program_name": "Save Energy NB",
+     "link": "https://www.saveenergynb.ca/en/", 
+     "infomration": "information.....", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": 150000,
+     "province(s)": "new brunswick", 
+     "fedral": "yes",
+     "scope list": "others"
+    }, 
+    {
+     "program_name": "Efficency Nova Scotia",
+     "link": "https://www.efficiencyns.ca/business/,", 
+     "infomration": "Provides funding for Audits, Planning, and Implementation and Operation", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": 150000,
+     "province(s)": "nova scotia",
+     "fedral": "yes",
+     "scope list": "training, hiring, others"
+    }, 
+    {
+     "program_name": "Government of P.E.I",
+     "link": "https://www.efficiencyns.ca/business/,", 
+     "infomration": "Community Energy Solutions provides incentives for energy efficiency upgrades that cover up to 50% of the total cost, with a maximum of $25,000. These incentives can fund upgrades to heating systems, ventilation, thermostats, and controls, among other things. The incentive amount is calculated as the lower of either the annual savings or 50% of the project cost up to $25,000. For larger operations using more than 350,000 kWh annually, custom energy solutions may be available, including funding for a feasibility study and access to an onsite energy manager who will monitor energy savings to ensure the project performs as planned. Investing in energy efficiency will reduce energy consumption and help manage operating costs.", 
+     "applicance eligibility": "none",
+     "location elgibility": "anyone",
+     "amount": 25000,
+     "province(s)": "nova scotia",
+     "fedral": "yes",
+     "scope list": "training, hiring, others"
+    }
+
+    
+   ]
