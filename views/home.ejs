@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head> 
+        <title>Luminous Sponsorship Portal</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+        <meta name = "viewport" content = "width=device-width, initial-scale = 0, user-scalable=no"> 
+        <script src = "mov.js" ></script>
+        <script src = "https://unkpg.com/read-excel-file@4.x/bundle/read-excel-file.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+    </head>
+    <body>
+        <div class = "header">
+            <a href = "/login" class = "login" id = "okokok">Login</a>
+            <img src = "https://media.discordapp.net/attachments/715996959655329943/1109248119956328530/logo-full-blue-new.jpg?width=1516&height=666" alt = "logo">
+            <button type="button" class="question" onclick="togglePopup()">&#63;</button>
+            <button type = "button" class = "instr" onclick="togglePopupTwo()">Instructions</button>
+        </div>
+
+        <div class="question-popup" id="questionPopup">
+            <div class="question-popup-content">
+                <button type="button" onclick="togglePopup()" class = "noway">X</button>
+                <h1>Do you have any questions or comments?</h1>
+                <p>Email us at <a href="mailto:enwrreio@ijfrfioerf.com">enwrreio@ijfrfioerf.com</a></p>
+
+            </div>
+        </div>
+
+        <div class = "instr-popup" id = instrPopUp>
+            <div class = "instr-popup-content">
+                <button type = "button" onclick = "togglePopupTwo()" class = "noway">X</button>
+                <h1>Instructions</h1>
+                <ol>
+                    <li>Make sure you are regiestered in a project with Luminous Energy</li>
+                    <li>A Luminous representive would have given you a username and password to log into the portal</li>
+                    <li>Head over to the login button in the header to continue and access the potential sponsors through some questionaries</li>
+                  </ol>
+            </div>
+        </div>
+        
+        <div class = "PageSlides">
+            <div class = "What">
+                <h1>What is the Luminous Energy Solutions Sponsorship Portal?</h1>
+                <h2>This is a platform that allows customers of Luminous Energy Solutions to find potenital funding for their companies energy reduction program. </h2>
+            </div>
+            <div class = "Working">
+                <h1>How does it work?</h1>
+                <h2>It parses through a database that contains sponsorship programs that are all over Canada and matches them to the customers company, based on a couple questionaries.</h2>
+                <h2>The user will then have a list of sponsors and different ways to apply alongside all the required information.</h2>
+                <h2>Check out the code if you are interested! </h2>
+                <a href = "">GitHub</a>
+            </div>
+            <div class = "Amount">
+                <h1>Why?</h1>
+                <h2>You can save up to.....</h2>
+                <img src = "https://media.discordapp.net/attachments/715996959655329943/1087595825456238642/1.gif?width=1656&height=174" alt = "millions">
+                <h3>Candian Dollars</h3>
+
+
+            </div>
+            <div class = "Patnerships">
+                <h1>Customers</h1>
+                <h2>We work for over 10+ companies in Canada, USA, Bosnia, and the UAE and we are excited to serve more</h2>
+                <h2>If you are interested in knowing more please visit our webiste or email us at eiwofjewiojfo@luminousenergysolutions.com</h2>
+                <a id = "cla" href = "https://luminousenergy.solutions/">Website</a>
+                <div class = "theImages">
+                    <img src = "https://media.discordapp.net/attachments/715996959655329943/1109210630872895548/jpt-2019-new-bhi-logo.png?width=1450&height=1002">
+                    <img src = "https://media.discordapp.net/attachments/715996959655329943/1109210631128744037/sps-logo2x.png?width=348&height=224">
+                    <img src = "https://media.discordapp.net/attachments/715996959655329943/1109210631703376003/2905fe491f0d6d7499182ab57ee139f7.png?width=1516&height=852">
+                    <img src = "https://media.discordapp.net/attachments/715996959655329943/1109210632051495103/Tops_Pizza_Logo_for_Web.webp?width=654&height=1002"> 
+                </div>
+            </div>
+        </div>
+
+
+    </body>
+
+</html>
+<script>
+    function togglePopup() {
+        var popup = document.getElementById("questionPopup");
+        popup.style.display = popup.style.display === "none" ? "flex" : "none";
+    }
+    
+    function hidePopup() {
+        var popup = document.getElementById("questionPopup");
+        popup.style.display = "none";
+    }
+    
+    window.onclick = function(event) {
+        var popup = document.getElementById("questionPopup");
+        if (event.target == popup) {
+            hidePopup();
+        }
+    }
+    
+    
+    function togglePopupTwo() {
+        var popup = document.getElementById("instrPopUp");
+        popup.style.display = popup.style.display === "none" ? "flex" : "none";
+    }
+    
+    
+    function hidePopupTwo() {
+        var popup = document.getElementById("instrPopUp");
+        popup.style.display = "none";
+    }
+    
+    window.onclick = function(event) {
+        var popup = document.getElementById("instrPopUp");
+        if (event.target == popup) {
+            hidePopupTwo();
+        }
+    }
+</script>
