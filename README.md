@@ -6,7 +6,10 @@ I used node.js to retrieve data through research on companies in Canada that wou
 
 
 **Division of files**
-All style based -> stylesheets
+All style based -> stylesheets 
+
 All frontend -> views
+
 Database -> info.json 
+
 Router -> server.js
